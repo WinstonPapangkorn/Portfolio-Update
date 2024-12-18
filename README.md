@@ -14,4 +14,9 @@
 # PROJECTS
 
 1. Blizzard (Blizzard is a game where you have to try to survive in a blizzard for as long as you can while getting chased by a mysterious creature.)
-! [Picture] ()   
+Link to the repository: https://github.com/Emil-Gruenwald/GameDev
+
+My Role: I test the game looking for bugs and problems in the game so coders can fix it.
+
+2. Shape Game (Game where you have to reach the target befoe it dissapears and gets progressivly harder.)
+   https://github.com/WinstonPapangkorn/gamedev1portfolio/blob/main/README.md
